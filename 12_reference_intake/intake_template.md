@@ -1,0 +1,21 @@
+# INTAKE TEMPLATEThis file provides a standardized template for analyzing and documenting damaged media references.## Reference Information
+Reference ID: [unique identifier] Date analyzed: [YYYY-MM-DD] Analyst: [name/handle] Source: [URL, archive, personal collection, etc.] Era/origin: [estimated date and context] Confidence: [high/medium/low for key identifications]
+## Visual Description
+Content type: [portrait, landscape, text, abstract, etc.] Dominant colors: [palette description] Overall brightness: [low/medium/high, contrast level] First impression: [immediate affective response]
+## Medium Identification
+Primary medium: [specific format] Confidence: [high/medium/low] Supporting evidence: [technical observations] Alternative possibilities: [if uncertain]
+## Artifact Inventory### Noise family- [ ] Grain: type [film/sensor/analog/digital], severity [S0-S5]- [ ] Static: type [snow/speckle/chatter], severity [S0-S5]- Notes:### Smear/drag/bleed family- [ ] Chroma bleed: direction [horizontal/vertical/other], severity [S0-S5]- [ ] Motion smear: type [optical/signal/computational], severity [S0-S5]- [ ] Other smear: description, severity [S0-S5]- Notes:### Tearing/sync instability family- [ ] Horizontal tear: periodicity [regular/irregular], severity [S0-S5]- [ ] Vertical roll: speed [slow/fast], severity [S0-S5]- [ ] Jitter: frequency [low/high], severity [S0-S5]- Notes:### Compression breakage family- [ ] Macroblocking: block size [visible/estimated], severity [S0-S5]- [ ] Banding: location [skies/gradients/shadows], severity [S0-S5]- [ ] Mosquito noise: location [edges/text], severity [S0-S5]- [ ] Ringing: location [edges], severity [S0-S5]- Notes:### Surface contamination family- [ ] Dust: density [sparse/moderate/heavy], size [fine/coarse], severity [S0-S5]- [ ] Scratches: direction [vertical/horizontal/random], severity [S0-S5]- [ ] Hair/fiber: count [few/many], severity [S0-S5]- [ ] Stains: color [description], severity [S0-S5]- Notes:### Light/exposure failure family- [ ] Bloom: source [highlights/global], severity [S0-S5]- [ ] Halation: location [bright edges], severity [S0-S5]- [ ] Light leaks: position [edges/corners], color [warm/cool], severity [S0-S5]- [ ] Clipping: regions [highlights/shadows], severity [S0-S5]- Notes:### Color failure family- [ ] Misalignment: type [RGB/CMYK/channel], severity [S0-S5]- [ ] Cast shift: direction [warm/cool/magenta/green], severity [S0-S5]- [ ] Channel dropout: channel [R/G/B/C/M/Y/K], severity [S0-S5]- Notes:### Geometry failure family- [ ] Warping: type [barrel/pincushion/wave], severity [S0-S5]- [ ] Curvature: location [edges/corners/global], severity [S0-S5]- [ ] Rolling shutter: shear direction [vertical/horizontal], severity [S0-S5]- Notes:### Temporal/memory artifacts family (video only)- [ ] Trails: type [phosphor/motion/feedback], severity [S0-S5]- [ ] Ghost frames: offset [frames], severity [S0-S5]- [ ] Stutter/freeze: frequency [description], severity [S0-S5]- Notes:## Stack Reconstruction
+Base medium: description Native artifacts: [list] Additional damage: [list with causes] Chain (if applicable): [step-by-step] Final severity profile: [overall assessment]
+## Prompt Reconstruction
+Reconstructed prompt: [full damage description]
+Alternative prompts: [variations for different systems]
+Keywords for search: [terms for finding similar examples]
+## Affective Analysis
+Dominant mood: description Associated genres: [horror/documentary/nostalgia/etc.] Cultural references: [similar known works] Unique qualities: [what makes this example distinctive]
+## Uncertainties and Notes
+Questions: [what remains unclear] Assumptions: [what was assumed for classification] Follow-up needed: [additional research required] Related references: [similar examples to compare]
+## Validation
+Self-check: Does this analysis pass the taxonomy consistency tests? Peer review: [if applicable] Revision history: [dates and changes]
+---## Quick intake (short form)For rapid documentation:
+ID: [identifier] Medium: [format] Dominant artifacts: [3-5 key terms] Severity: [overall S-level] Stack: [one-line description] Prompt: [reconstructed prompt] Mood: [affective quality]
+## SummaryStandardized intake ensures consistent analysis, comparable data, and reproducible results across all DAMAGE reference documentation.
